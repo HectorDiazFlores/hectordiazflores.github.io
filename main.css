@@ -46,16 +46,12 @@ header p:hover{
     background-color: #FFE500; 
 }
 iframe{
-    padding-right: 10px;
+    padding-right: 0px;
 }
 .jumbotron {
   padding-top: 30px;
   padding-bottom: 30px;
-  padding-left: 90px;
-  padding-right: 90px;
-  margin-bottom: 90px;
-  margin-left: 400px;
-  margin-right: 400px;
+  margin-bottom: 30px;
   color: inherit;
   background-color: #eee;
 }
@@ -91,18 +87,5 @@ td:hover{
 }
 .twitter-timeline{
   display: inline-block;
-  margin-left: 700px;
-  margin-right: 300px;
-}
-
-.listings{
-  font-size: 30px;
-}
-.listings a{
-  text-decoration: underline;
-}
-iframe{
-  display: flex;
-  margin-left: 30%;
-  margin-right: 50%;
+  padding-left: 100px;
 }
